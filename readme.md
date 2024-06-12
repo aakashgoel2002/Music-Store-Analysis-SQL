@@ -18,12 +18,16 @@ In this project, we perform an in-depth analysis of a music store's data. The da
 The dataset used in this project is a SQL database that includes the following tables:
 
 - `customers`
-- `invoices`
-- `invoice_items`
-- `tracks`
-- `albums`
-- `artists`
-- `genres`
+- `employee`
+- `invoice`
+- `invoice_line`
+- `track`
+- `album`
+- `artist`
+- `genre`
+- `media_type`
+- `playlist_track`
+- `playlist`
 
 ## Schema Diagram
 
